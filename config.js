@@ -1,6 +1,6 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/K2GdecBQiHaKjMiQ9bhrNS', 'https://chat.whatsapp.com/LvK86OH4nWyHUAWJS9tNtw']
-global.owner = ['6287772343860', '6285924341386', '6285349896689']// Put your number here
+global.owner = ['6287772343860', '6282250440588', '6285349896689']// Put your number here
 global.mods = ['627772343860'] // Want some help?
 global.prems = ['6285157160906'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
