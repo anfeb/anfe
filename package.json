@@ -1,6 +1,6 @@
 {
   "name": "anfebn",
-  "version": "1.0",
+  "version": "0.9.8",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
   "main": "index.js",
@@ -20,7 +20,7 @@
     "whatsapp",
     "js-whatsapp",
     "whatsapp",
-    "anfebn",
+    "Games-wabot",
     "wabot-aq"
   ],
   "homepage": "https://github.com/anfebnBotz/anfebn",
