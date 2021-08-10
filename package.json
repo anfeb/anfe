@@ -1,6 +1,6 @@
 {
-  "name": "games-wabot",
-  "version": "0.9.8",
+  "name": "anfebn",
+  "version": "1.0",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
   "main": "index.js",
@@ -23,7 +23,7 @@
     "Games-wabot",
     "wabot-aq"
   ],
-  "homepage": "https://github.com/anfebnBotz/games-wabot.git",
+  "homepage": "https://github.com/anfebnBotz/anfebn",
   "author": {
     "name": "anfebnBotz"
   },
@@ -32,7 +32,7 @@
     "url": "git+https://github.com/Nurutomo/wabot-aq.git"
   },
   "bugs": {
-    "url": "https://github.com/BochilGaming/games-wabot/issues"
+    "url": "https://github.com/anfebnBotz/anfebn/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
