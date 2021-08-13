@@ -31,7 +31,7 @@ let handler = async (m, { conn, participants, args }) => {
 handler.help = ['tagall'] 
 handler.tags = ['group']
 handler.command = /^tagall$/i
-handler.owner = false
+handler.owner = true
 handler.mods = false
 handler.premium = false
 handler.group = true
@@ -41,5 +41,5 @@ handler.admin = false
 handler.botAdmin = false
 
 handler.fail = null
-handler.limit = true
+
 module.exports = handler
