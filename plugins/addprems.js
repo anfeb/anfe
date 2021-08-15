@@ -4,7 +4,7 @@ let handler = async(m, { conn, text }) => {
 let who
   if (m.isGroup) who = m.mentionedJid[0]
   else who = m.chat
-  if (!isOwner) return reply(mess.OnlyOwner)
+
 
                 if (args.length < 2) return reply(`Penggunaan :\n*${prefix}addprem* @tag waktu\n*${prefix}addprem* nomor waktu\n\nContoh : ${command} @tag 30d`)
 
