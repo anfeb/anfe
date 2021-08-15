@@ -12,7 +12,7 @@ let who
 
                     for (let i = 0; i < mentioned.length; i++){
 
-                    _prem.addPremiumUser(mentioned[0], args[2], premium)
+                    _prem.addPrems(mentioned[0], args[2], prems)
 
                     }
 
@@ -20,7 +20,7 @@ let who
 
                 } else {
 
-                    _prem.addPremiumUser(args[1] + '@s.whatsapp.net', args[2], premium)
+                    _prem.addPrems(args[1] + '@s.whatsapp.net', args[2], prems)
 
                     reply('Sukses')
 
